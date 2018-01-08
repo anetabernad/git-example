@@ -1,0 +1,23 @@
+{
+	"text": "Hello, World!",
+	"attachments": [{
+		"fallback": "Claim",
+		"color": "F22613",
+		"author_name": "claimed_user.name",
+		"title": "has just claimed this profile",
+    "callback_id": "merge_user",
+    "fallback": "There was a problem with mergin profile",
+    "token": "9Th493E6LmWx0bu0yBvnAUXl",
+		"actions": [{
+			"name": "game",
+			"text": "Contact",
+			"type": "button",
+			"value": "bla"
+		},{
+			"name": "merge",
+			"text": "Merge",
+			"type": "button",
+			"value": "user_2,administrator"
+		}],
+	}]
+}
